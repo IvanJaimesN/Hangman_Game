@@ -67,6 +67,5 @@ def main():
     print("The word was: ", word_select)
     print("Your score is: ", score)
 
-
 if __name__ == "__main__":
     main()
